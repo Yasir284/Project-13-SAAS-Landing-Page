@@ -2,9 +2,9 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-5--6hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project13-07822.netlify.app/)
 
-# Project-12: SAAS Landing Page
+# SAAS Landing Page
 
-- This project is a SAAS landing page.This website is designed using pure HTML and CSS.
+- This project is a SAAS landing page.This website is designed using pure HTML and CSS. Also I made this website responsive.
 
 - It took me 5-6hrs to make this project.Please find link of the project below:
 
@@ -12,15 +12,29 @@
 
 ---
 
+## Breakpoint
+
+- I have taken **Three** breakpoints for making it responsive.
+
+  - At **968px**
+  - At **820px**
+  - At **524px**
+
 ## Screenshot
 
-![App Screenshot](./images/project-13ss.png)
+- Desktop view
+
+  ![App Screenshot](./images/project-13ss.png)
+
+- Mobile View
+
+  ![Moile view](./images/project13-mobilevs.png)
 
 ---
 
 ## 🛠 Skills learned
 
-HTML, CSS
+HTML, CSS, Responsive wesites
 
 ---
 
